@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/popcorntime/static/css/main.39c5266b.css",
-    "main.js": "/popcorntime/static/js/main.ea0f9096.js",
-    "index.html": "/popcorntime/index.html",
-    "main.39c5266b.css.map": "/popcorntime/static/css/main.39c5266b.css.map",
-    "main.ea0f9096.js.map": "/popcorntime/static/js/main.ea0f9096.js.map"
+    "main.css": "/PopcornTime/static/css/main.39c5266b.css",
+    "main.js": "/PopcornTime/static/js/main.ea0f9096.js",
+    "index.html": "/PopcornTime/index.html",
+    "main.39c5266b.css.map": "/PopcornTime/static/css/main.39c5266b.css.map",
+    "main.ea0f9096.js.map": "/PopcornTime/static/js/main.ea0f9096.js.map"
   },
   "entrypoints": [
     "static/css/main.39c5266b.css",
