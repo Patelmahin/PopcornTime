@@ -159,7 +159,7 @@ function Logo() {
   return (
     <div className="logo">
       <span role="img">🍿</span>
-      <h1>usePopcorn</h1>
+      <h1>PopcornTime</h1>
     </div>
   )
 }
@@ -317,7 +317,7 @@ function MovieDetails({ selectedId, onCloseMovie, onAddWatched, watched }) {
     if (!title) return
     document.title = `Movie | ${title}`
     return function () {
-      document.title = "usePopcorn"
+      document.title = "PopcornTime"
     }
   }, [title])
 
