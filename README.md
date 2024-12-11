@@ -25,8 +25,4 @@ The website is deployed on GitHub Pages, and you can access it at: https://patel
 Contributing
 Feel free to fork the repository and submit issues or pull requests. Contributions are welcome!
 
-### Explanation:
-- **Code block**: Use triple backticks (\```) around the commands (`git clone`, `npm install`, `npm start`) to create a code block.
-- **List items**: Use `1.` for ordered lists and `-` for unordered lists to organize the setup steps.
 
-This will create a nicely formatted section in the `README.md` file with proper instructions.
